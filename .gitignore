@@ -1,0 +1,13 @@
+# Make.md 플러그인
+.makemd/fileCache.mdc
+.makemd/superstate.mdc
+
+# Spaces 플러그인
+.obsidian/plugins/make-md/Spaces.mdb
+.obsidian/plugins/make-md/data.json
+
+# Obsidian 워크스페이스 설정
+.obsidian/workspace.json
+
+# (선택) Obsidian Git 플러그인 상태 파일
+.obsidian/plugins/obsidian-git/data.json
