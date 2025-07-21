@@ -11,10 +11,14 @@
             "id": "186f1439f4b51c05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -194,6 +198,7 @@
   },
   "active": "186f1439f4b51c05",
   "lastOpenFiles": [
+    "News/하루에 1만6000원 이상 지출하면 당신은 '중산층'입니다..md",
     "Vault/README.md",
     "Vault",
     "새 폴더",
@@ -208,7 +213,6 @@
     "DataBase/MySQL/자주쓰는 쿼리.md",
     "Task",
     "DataBase/DataBase.md",
-    "News/하루에 1만6000원 이상 지출하면 당신은 '중산층'입니다..md",
     "News/중산층이 단순히 ‘더 잘 살기 위한 계층’이 아니라 ‘더 나은 사회를 함께 설계하고 책임지는 주체’로서 우뚝 서자는 것이다..md",
     "News/[[News[[News이 기사를 읽는 당신은 글로벌 중산층일 가능성이 높다..md이 기사를 읽는 당신은 글로벌 중산층일 가능성이 높다.]].md[[News이 기사를 읽는 당신은 글로벌 중산층일 가능성이 높다..md이 기사를 읽는 당신은 글로벌 중산층일 가능성이 높다.]]]].md",
     "News/[[News이 기사를 읽는 당신은 글로벌 중산층일 가능성이 높다..md이 기사를 읽는 당신은 글로벌 중산층일 가능성이 높다.]].md",
