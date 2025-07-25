@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"4bc6c300a9a2a12e","type":"text","text":"지출결의서","x":520,"y":-1160,"width":250,"height":60},
+		{"id":"09e2091cd5c8a184","type":"text","text":"카드사용내역 관리","x":-40,"y":-1160,"width":250,"height":60},
+		{"id":"2acbed2e51d6f550","type":"text","text":"법인카드","x":-520,"y":-1160,"width":250,"height":60},
+		{"id":"2f5c5e4a7516b110","type":"text","text":"입출금내역","x":520,"y":-600,"width":250,"height":60},
+		{"id":"954adbcc73110a23","type":"text","text":"입출금관리","x":520,"y":-860,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"91fd2bbadf2d3baa","fromNode":"09e2091cd5c8a184","fromSide":"bottom","toNode":"4bc6c300a9a2a12e","toSide":"top","label":"지출결의서 자동작성 == 'Y'"},
+		{"id":"bed04ed4eb96333a","fromNode":"4bc6c300a9a2a12e","fromSide":"bottom","toNode":"954adbcc73110a23","toSide":"top"},
+		{"id":"d8af0cb62095b3b0","fromNode":"09e2091cd5c8a184","fromSide":"top","toNode":"2acbed2e51d6f550","toSide":"bottom","toEnd":"none"},
+		{"id":"604073f6e1ad0b35","fromNode":"2acbed2e51d6f550","fromSide":"bottom","toNode":"09e2091cd5c8a184","toSide":"top","label":"카드 결제"},
+		{"id":"5ac1f421de9c9127","fromNode":"954adbcc73110a23","fromSide":"bottom","toNode":"2f5c5e4a7516b110","toSide":"top"}
+	]
+}
