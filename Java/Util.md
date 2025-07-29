@@ -1,7 +1,7 @@
 ---
 sticker: emoji//270f-fe0f
 ---
-``` java title="getToday"
+``` java title="현재 날짜 가져오기"
 
 public static String getToday() {
 	Date date = new Date();

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": " ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -69,6 +69,27 @@
         "a": 1,
         "rgb": 14048429
       }
+    },
+    {
+      "query": "path:국어",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Develop",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:회계 ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6372986970436084,
+  "scale": 0.7069024726667161,
   "close": false
 }
