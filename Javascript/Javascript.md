@@ -6,3 +6,4 @@ sticker: lucide//file-json-2
 [[Javascript/Util]]
 [[Ajax]]
 [[Javascript/자주 사용하는 코드|자주 사용하는 코드]]
+[[Select2 Plugin]]
