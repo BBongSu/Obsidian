@@ -1,7 +1,6 @@
 ---
-sticker: lucide//file-edit
+sticker: emoji//1f525
 ---
 ### 관련 노트
 
-[[Spring MyBatis CRUD 자동 생성]]
 [[Java/Util]]
