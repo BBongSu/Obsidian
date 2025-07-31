@@ -289,3 +289,22 @@ public class PortalFileGenerator {
 
 
 ```
+``` java title="Object null값 String처리"
+
+/**
+* Object를 String으로 변환, Object가 null값이 일 경우, defaultStr 반환
+* @param obj 문자열로된 Object
+* @param defaultStr obj 가 Null 값일 경우 반환할 값
+* @return Null값 : defaultStr, 그외 : obj
+*/
+
+public static String isNull(Object obj, String defaultStr){
+	String result = defaultStr;
+	if(obj != null && !"".equals(obj)){
+		if(!"".equals(String.valueOf(obj))){
+			result = String.valueOf(obj);
+		}
+	}
+	return result.trim();
+}
+```
