@@ -8,6 +8,34 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:Cafe24  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:ChatGPT  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:cmd  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
       "query": "path:DataBase  ",
       "color": {
         "a": 1,
@@ -29,6 +57,13 @@
       }
     },
     {
+      "query": "path:Task  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
       "query": "path:News  ",
       "color": {
         "a": 1,
@@ -36,17 +71,10 @@
       }
     },
     {
-      "query": "path:Youtube  ",
+      "query": "path:국어",
       "color": {
         "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "path:Task  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
+        "rgb": 14048348
       }
     },
     {
@@ -57,24 +85,17 @@
       }
     },
     {
-      "query": "path:ChatGPT  ",
+      "query": "path:사회  ",
       "color": {
         "a": 1,
-        "rgb": 11361494
+        "rgb": 6053078
       }
     },
     {
-      "query": "path:Java  ",
+      "query": "path:Youtube  ",
       "color": {
         "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "path:국어",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
+        "rgb": 6084269
       }
     },
     {
@@ -102,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7069024726667161,
-  "close": false
+  "scale": 0.45050804799449573,
+  "close": true
 }
