@@ -1,7 +1,7 @@
 ---
 sticker: emoji//270f-fe0f
 ---
-``` js title="DB Data select2 attr에 추가"
+``` js title="[select2] DB Data select2 attr에 추가"
 
 /*
 	bpp_por_user(임직원관리 테이블)에서 id는 seq값, text는 직원명 전제로 진행.
@@ -43,7 +43,7 @@ selectListApi(
 	}
 );
 ```
-``` js title="Button Click data-info 값 출력"
+``` js title="[select2] Button Click data-info 값 출력"
 
 $("#[btnId]").on("click", function(){
 	const selectedOption = $("#[select2Id] option:selected");
@@ -51,5 +51,11 @@ $("#[btnId]").on("click", function(){
 
 	console.log("dataInfo : ", dataInfo);
 });
+
+```
+``` js title="[i18next] 다국어 지원 기능 플러그인"
+
+/* 사이트 */
+https://www.i18next.com/
 
 ```
