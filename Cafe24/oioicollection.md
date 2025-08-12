@@ -8,6 +8,8 @@ sticker: emoji//1f45a
 	- id : oic24
 	- password : findform12!
 - 관리자 로그인 -> 디자인 (PC/모바일) 메뉴 -> PC 대표 디자인 (디자인 보관함) -> 디자인 보관함 목록
+- 판다씨 매니저 : https://banner.pandassi.com/?code=k4mHV32XIpureo62eFiqvH&state=1373460932
+- 관리자 로그인 -> 앱 -> 판다씨 배너매니저
 
 >FTP 정보
 
@@ -28,3 +30,8 @@ sticker: emoji//1f45a
 
 - /sde_design/skin[number] : cafe24 관리자에서 생성한 디자인 폴더
 	- /index.html : 메인 페이지
+	- /kment/header_inner.html : 최상단중앙 이미지 ~ 최상단우측 헤더 페이지
+	- /oioi/customer_service/terms.html : 약관사항 페이지
+- /sde_design/skin[number] : cafe24 관리자에서 생성한 디자인 폴더
+	- /index.html : 메인 페이지
+	- /layout/basic/sidebar.html : 최상단우측 햄버거 버튼 페이지
