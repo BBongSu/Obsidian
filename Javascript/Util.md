@@ -14,7 +14,7 @@ function getCommaFormatter(prefixSelector) {
 	});
 }
 ```
-``` javascript title="쿠키 설정"
+``` javascript title="setCookie - 쿠키 설정"
 function setCookie(name, value) {
 	var todayDate = new Date();
 	todayDate.setDate(todayDate.getDate() + 365);
@@ -22,7 +22,7 @@ function setCookie(name, value) {
 	+ todayDate.toGMTString() + ";"
 }
 ```
-``` javascript title="쿠키 가져오기"
+``` javascript title="getCookie - 쿠키 가져오기"
 function getCookie(cookie_name) {
 	var x, y;
 	var val = document.cookie.split(';');
@@ -37,5 +37,9 @@ function getCookie(cookie_name) {
 	}
 }
 ```
-
+``` javascript title="checkAll - 체크박스 전체 선택/해제"
+function checkAll(chkObj, targetId){
+	$("input[name=" +targetId+ "]").prop("checked", chkObj.checked);
+}
+```
 

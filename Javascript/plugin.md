@@ -59,3 +59,19 @@ $("#[btnId]").on("click", function(){
 https://www.i18next.com/
 
 ```
+``` javascript title="[ajax] 기본 소스"
+$.ajax
+({
+	url : "/search/selectRevision.ajax",
+	data : {"mcIdx":mcIdx},
+	type : "post",
+	dataType : "json",
+	success : function(data) {
+	
+	},
+	error : function(jqXHR,textStatus,e) {
+		alert("오류가 발생하였습니다. 관리자에게 문의해 주세요.\n\n" + "에러 코드 : " + jqXHR.status + "\n" + "상태 : " + textStatus + "\n" + "에러 내용 : " + e);
+	return;
+	}
+});
+```
