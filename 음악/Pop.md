@@ -1,5 +1,5 @@
 ---
-sticker: lucide//music-2
+sticker: lucide//music
 ---
 
 - Ne-Yo - Because Of You
@@ -7,3 +7,4 @@ sticker: lucide//music-2
 - Eminem - Without Me
 - Eminem - Lose Yourself
 - 1nonly&Sxmpra - Step Back!
+- Charlie Puth - Dangerously
