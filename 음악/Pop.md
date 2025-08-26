@@ -8,3 +8,4 @@ sticker: lucide//music
 - Eminem - Lose Yourself
 - 1nonly&Sxmpra - Step Back!
 - Charlie Puth - Dangerously
+- Ed Sheeran - Bad Habits
