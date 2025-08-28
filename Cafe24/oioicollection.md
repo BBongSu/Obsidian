@@ -27,11 +27,15 @@ sticker: emoji//1f45a
 
 >주요 파일 및 경로
 
-
-- /sde_design/skin[number] : cafe24 관리자에서 생성한 디자인 폴더
+- /sde_design/skin[number] : cafe24 관리자에서 생성한 디자인 폴더 (PC)
 	- /index.html : 메인 페이지
-	- /kment/header_inner.html : 최상단중앙 이미지 ~ 최상단우측 헤더 페이지
+	- /kment/header.html : 최상단 좌측 메뉴 (판다씨 연동)
+	- /kment/header_inner.html : 최상단 중앙 이미지 ~ 최상단 우측 헤더 페이지
 	- /oioi/customer_service/terms.html : 약관사항 페이지
-- /sde_design/skin[number] : cafe24 관리자에서 생성한 디자인 폴더
+	- /js/category_blocked.js : 메뉴 접속 제어 js (cate_no 배열로 관리중)
+
+- /sde_design/mobile[number] : cafe24 관리자에서 생성한 디자인 폴더 (Mobile)
 	- /index.html : 메인 페이지
-	- /layout/basic/sidebar.html : 최상단우측 햄버거 버튼 페이지
+	- /layout/basic/sidebar.html : 최상단 우측 햄버거 버튼
+	- /js/category_blocked.js : 메뉴 접속 제어 js (cate_no 배열로 관리중)
+
