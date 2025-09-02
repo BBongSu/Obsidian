@@ -1,5 +1,5 @@
 ---
-sticker: lucide//file
+sticker: emoji//270f-fe0f
 APPPOS APP to APP 연동가이드 URL: https://apppos.nicevan.co.kr/dev/
 ---
 **기초**

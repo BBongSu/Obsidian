@@ -9,3 +9,5 @@ sticker: lucide//music
 - 1nonly&Sxmpra - Step Back!
 - Charlie Puth - Dangerously
 - Ed Sheeran - Bad Habits
+- Imagine Dragons - Believer
+- Gnarls Barkley - Crazy
