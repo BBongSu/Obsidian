@@ -2,5 +2,5 @@
   "autorun": true,
   "format": "YYYY-MM-DD",
   "folder": "Scrum/Daily",
-  "template": "Templates/scrum"
+  "template": "Templates/kanban"
 }
