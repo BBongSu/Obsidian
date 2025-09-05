@@ -11,3 +11,5 @@ sticker: lucide//music
 - Ed Sheeran - Bad Habits
 - Imagine Dragons - Believer
 - Gnarls Barkley - Crazy
+- Lady Gaga - Abracadabra
+- Rihanna - S&M
