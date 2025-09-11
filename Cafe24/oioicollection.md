@@ -29,7 +29,8 @@ sticker: emoji//1f45a
 
 - /sde_design/skin[number] : cafe24 관리자에서 생성한 디자인 폴더 (PC)
 	- /index.html : 메인 페이지
-	- /kment/header.html : 최상단 좌측 메뉴 (판다씨 연동)
+	- /kment/header_bottom.html : 최상단 좌측 1depth 메뉴 (전 판다씨 연동)
+	- /kment/header.html : 최상단 좌측 2depth 메뉴 (전 판다씨 연동)
 	- /kment/header_inner.html : 최상단 중앙 이미지 ~ 최상단 우측 헤더 페이지
 	- /oioi/customer_service/terms.html : 약관사항 페이지
 	- /js/category_blocked.js : 메뉴 접속 제어 js (cate_no 배열로 관리중)
