@@ -1176,7 +1176,7 @@ public class StringUtil {
 	}
 }
 ```
-``` java title="DateUtil"
+``` java title="DateUtil - 날짜 유틸"
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
