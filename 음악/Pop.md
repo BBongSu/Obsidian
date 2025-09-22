@@ -14,3 +14,5 @@ sticker: lucide//music
 - Lady Gaga - Abracadabra
 - Rihanna - S&M
 - Michael Jackson - Billie Jean
+- Carpenters - Top Of The World
+- Carpenters - Close To You

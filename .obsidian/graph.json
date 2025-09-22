@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "노래",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -123,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45050804799449573,
-  "close": false
+  "scale": 0.2871082067971481,
+  "close": true
 }
