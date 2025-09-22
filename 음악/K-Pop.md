@@ -12,3 +12,5 @@ sticker: lucide//music
 - MC몽 - 죽을만큼 아파서
 - 산들(B1A4) - 취기를 빌려
 - 임창정 - 소주 한 잔
+- 브라운아이드걸스 - 어쩌다
+- 숀 - Way Back Home

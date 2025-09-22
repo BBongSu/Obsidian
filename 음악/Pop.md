@@ -4,6 +4,7 @@ sticker: lucide//music
 
 - Ne-Yo - Because Of You
 - Kelly Clarkson - Because Of You
+- Kelly Clarkson - Stronger (What Doesn't Kill You)
 - Eminem - Without Me
 - Eminem - Lose Yourself
 - 1nonly&Sxmpra - Step Back!
@@ -16,3 +17,9 @@ sticker: lucide//music
 - Michael Jackson - Billie Jean
 - Carpenters - Top Of The World
 - Carpenters - Close To You
+- It's My Life - Bon Jovi
+- Westlife - My Love
+- Ava Max - Kings & Queens
+- Ava Max - Sweet But Psycho
+- Maroon 5 - Sugar
+- Ke$ha - TiK ToK
