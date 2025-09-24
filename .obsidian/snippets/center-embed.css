@@ -1,0 +1,22 @@
+/* made by Joo Bong Soo */
+
+
+/* 읽기뷰/라이브프리뷰에서 내부 임베드(영상·이미지) 가운데 정렬 */
+
+.markdown-rendered .internal-embed,
+.markdown-rendered .image-embed,
+.markdown-rendered .media-embed,
+.cm-content .internal-embed {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+/* 임베드된 비디오/이미지 크기 */
+
+.markdown-rendered .internal-embed video,
+.markdown-rendered .internal-embed img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  /* 필요하면 고정 폭 예시: width: min(800px, 100%); */
+}
