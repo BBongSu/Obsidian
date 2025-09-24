@@ -67,8 +67,17 @@ sticker: emoji//1f3b9
 > **참고**
 
 - 그림1.png - BMS 예시 코드
+
+![[[json→bms 파일변환] 그림1.png|400]]
+
 - 그림2.png - BMS 예시 코드 결과 이미지 (노트툴)
+
+![[[json→bms 파일변환] 그림2.png|400]]
+
 - 그림3.png - BMS 문자열 설명 이미지
+
+![[[json→bms 파일변환] 그림3.png|400]]
+
 - 36진수로 구성
 
 > **URL**
@@ -78,3 +87,8 @@ sticker: emoji//1f3b9
 - https://github.com/MsrLab-org/osu2bms osu→bms 컨버트 소스정보
 - https://github.com/mashimycota/om2bms?tab=readme-ov-file osu→bms 컨버트 소스정보
 - https://github.com/Estrol/O2Game/blob/master/Game/src/Data/bms.hpp bms 소스정보
+
+> **파일**
+
+![[[json→bms 파일변환] 카톡내용.xlsx]]
+![[[json→bms 파일변환] 8-kamui-shd.json]]![[[json→bms 파일변환] 050_ordeal_5k.bms]]
