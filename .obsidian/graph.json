@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:task",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -57,17 +57,10 @@
       }
     },
     {
-      "query": "path:Task  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
       "query": "path:News  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 16514816
       }
     },
     {
@@ -123,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2871082067971481,
-  "close": true
+  "scale": 0.2871082067971482,
+  "close": false
 }
