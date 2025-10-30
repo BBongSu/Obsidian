@@ -42,3 +42,6 @@ sticker: lucide//music
 - Ke$ha - TiK ToK
 
 - Bruno Mars - Treasure
+
+- Camila Cabello - Havana
+- Camila Cabello - Never Be the Same
