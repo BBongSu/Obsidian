@@ -45,3 +45,5 @@ sticker: lucide//music
 
 - Camila Cabello - Havana
 - Camila Cabello - Never Be the Same
+
+- Redfoo - Juicy Wiggle
