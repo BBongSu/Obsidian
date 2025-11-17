@@ -47,3 +47,5 @@ sticker: lucide//music
 - Camila Cabello - Never Be the Same
 
 - Redfoo - Juicy Wiggle
+
+- Nari & Milani & Cristian Marchi - I Got My Eye On You [Cristian Marchi & Paolo Sandrini Perfect Edit]
