@@ -11,11 +11,15 @@ sticker: emoji//1f45a
 - 판다씨 매니저 : https://banner.pandassi.com/?code=k4mHV32XIpureo62eFiqvH&state=1373460932
 - 관리자 로그인 -> 앱 -> 판다씨 배너매니저
 
+---
+
 >FTP 정보
 
 - host : oic24.ftp.cafe24.com
 	- id : oic24
 	- password : Findform12!#
+
+---
 
 >Amazon 정보
 
@@ -24,6 +28,8 @@ sticker: emoji//1f45a
 	- Account ID : 813131430952
 	- username : findform
 	- password : findform12#
+
+---
 
 >주요 파일 및 경로
 
@@ -40,3 +46,4 @@ sticker: emoji//1f45a
 	- /layout/basic/sidebar.html : 최상단 우측 햄버거 버튼
 	- /js/category_blocked.js : 메뉴 접속 제어 js (cate_no 배열로 관리중)
 
+---

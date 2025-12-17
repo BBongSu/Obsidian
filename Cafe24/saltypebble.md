@@ -9,11 +9,15 @@ sticker: emoji//1f45a
 	- password : pebbleSalty0597!
 - 관리자 로그인 -> 디자인 (PC/모바일) 메뉴 -> PC 대표 디자인 (디자인 보관함) -> 디자인 보관함 목록
 
+---
+
 >FTP 정보
 
 - host : saltypebble21.ftp.cafe24.com
 	- id : Saltypebble21
 	- password : pebbleSalty0597!
+
+---
 
 >Amazon 정보
 
@@ -22,6 +26,8 @@ sticker: emoji//1f45a
 	- Account ID : 813131430952
 	- username : findform
 	- password : findform12#
+
+---
 
 >주요 파일 및 경로
 
@@ -35,3 +41,5 @@ sticker: emoji//1f45a
 		- /collection25/campaign_2nd.html : campaign 2nd 메뉴 페이지
 		- /collection25/lookbook.html : lookbook 메뉴 페이지
 		- /collection25/lookbook_2nd.html : lookbook 2nd 메뉴 페이지
+
+---
