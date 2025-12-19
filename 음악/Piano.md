@@ -1,5 +1,5 @@
 ---
-sticker: lucide//music-3
+sticker: lucide//music
 ---
 
 - Franco Cleopatra - Ode al Pomodoro
