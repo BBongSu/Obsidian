@@ -21,6 +21,7 @@ sticker: lucide//music
 - Gnarls Barkley - Crazy
 
 - Lady Gaga - Abracadabra
+- Lady Gaga - Poker face
 
 - Rihanna - S&M
 
@@ -49,3 +50,5 @@ sticker: lucide//music
 - Redfoo - Juicy Wiggle
 
 - Nari & Milani & Cristian Marchi - I Got My Eye On You [Cristian Marchi & Paolo Sandrini Perfect Edit]
+
+- yung kai - blue
