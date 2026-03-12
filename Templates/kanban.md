@@ -12,7 +12,7 @@ kanban-plugin: board
 
 
 
-## ⚠️ 느낀 점
+## ⚠️ 생각
 
 
 
