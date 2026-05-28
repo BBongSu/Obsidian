@@ -1,4 +1,4 @@
 ---
 sticker: lucide//file-json-2
 ---
-[[개념]]
+[[개발/Typescript/개념]]
