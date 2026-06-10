@@ -6,11 +6,7 @@
 
 ![[Pasted image 20260303103042.png]]
 
-- 정보 입력
-
-![[Pasted image 20260303103129.png]]
-
-- 메일 확인 후 인증키 복붙
+- 정보 입력 및 메일 확인 후 인증키 복붙
 	
 	- E:\www_root\01.hunterkorea\www_Root
 	- E:\www_root\01.hunterkorea\www_Root_AS
