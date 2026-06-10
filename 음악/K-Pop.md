@@ -27,3 +27,7 @@ sticker: lucide//music
 - 숀 - Way Back Home
 
 - 박봄 - Don't Cry
+
+- 비 - Feel it
+
+- 비 - Love Story
