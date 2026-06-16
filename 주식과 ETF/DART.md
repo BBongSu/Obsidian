@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f3af
+---
 https://dart.fss.or.kr/dsab007/main.do
 
 ## 효율적인 분석을 위한 체크리스트
