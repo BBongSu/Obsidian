@@ -1,0 +1,4 @@
+```dataview
+LIST
+FROM #mybatis
+```
