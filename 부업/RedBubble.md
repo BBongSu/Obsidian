@@ -16,8 +16,9 @@ https://www.redbubble.com/people/BBongStudio/shop?anchor=profile&asc=u
 
 - 글꼴: Fredoka
 
-
+---
 ## Product features
+
 
 - Durable flexible case that grips around the edges of your phone
 - Shock absorbent TPU case with anti-fingerprint finish
