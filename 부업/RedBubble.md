@@ -19,9 +19,10 @@ https://www.redbubble.com/people/BBongStudio/shop?anchor=profile&asc=u
 ---
 ## Product features
 
-- Your rugged little personal valet: carry your makeup, pencils, phone, cards, anything
-- Available in three sizes: check the size chart to find the right one for you
-- Durable 100% polyester canvas with a metal zipper. Fully lined for added strength
-- Vibrant, high-quality double-sided design, printed for you when you order
-- Cold machine wash and low tumble dry
+- Decorate and personalize laptops, water bottles, and more
+- Removable, kiss-cut vinyl stickers
+- Super durable and water-resistant
+- 1/8 inch (3.2mm) white border around each design
+- Glossy finish for vibrant, eye-catching colors
+- For orders with 2+ small stickers, they will be printed in pairs with two stickers on one sheet to reduce sheet waste
 - Since every item is made just for you by your local third-party fulfiller, there may be slight variances in the product received
