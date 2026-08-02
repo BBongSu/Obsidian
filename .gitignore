@@ -8,6 +8,16 @@
 # Obsidian 워크스페이스 설정
 .obsidian/workspace.json
 .obsidian/app.json
+# Make.md 플러그인
+.makemd/fileCache.mdc
+.makemd/superstate.mdc
+
+# Spaces 플러그인
+.obsidian/plugins/*
+
+# Obsidian 워크스페이스 설정
+.obsidian/workspace.json
+.obsidian/app.json
 .obsidian/community-plugins.json
 .obsidian/core-plugins.json
 
@@ -17,3 +27,9 @@
 # space
 .space/context.mdb
 /.obsidian/appearance.json
+
+# Quartz 빌드 파일 및 임시 폴더
+node_modules/
+public/
+.quartz/
+.quartz_temp/
