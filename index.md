@@ -1,13 +1,13 @@
 ---
 title: Tech & Engineering Portfolio
-date: 2026-08-03
+date: 2026-08-07
 ---
 
 # 🚀 엔지니어링의 깊이를 더하고 지식을 연결하는 7년차 시스템 아키텍트
 
 > **“현실 세계의 복잡한 비즈니스 로직을 견고한 아키텍처로 직조해 내고, 끝없는 탐구와 지식의 연결을 통해 엔지니어링의 한계를 돌파합니다.”**
 > 
-> **7년차 풀스택 & 백엔드 시스템 아키텍트**로서 전사적 자원 관리(ERP, Bizpack)의 대용량 트랜잭션 엔진과 스키마 설계부터, 이커머스 결제 인프라(PG/VAN), 그리고 물리적 현장 장비(POS/Android) 통신 프로토콜까지 도메인을 주도적으로 이끌어 왔습니다.  
+> **7년차 풀스택 & 백엔드 시스템 아키텍트**로서 전사적 자원 관리(ERP, Bizpack)의 대용량 수불 트랜잭션 엔진과 E2E 비즈니스 스키마 설계부터, 이커머스/오프라인 결제 인프라(PG/VAN), 그리고 현장 모바일 단말(Android) 및 차세대 AI Agent(LangChain4j) 융합까지 도메인을 주도적으로 이끌어 왔습니다.  
 > 단순한 기능 구현을 넘어, **시스템의 생태계 전반을 바라보는 구조적 깊이와 문제 해결력을 실증**합니다.
 
 ---
@@ -31,11 +31,11 @@ date: 2026-08-03
 
 ### 🏢 1. [Enterprise ERP Architecture] 전사 통합 ERP 아키텍처 및 대용량 업무 엔진 엔지니어링
 
-*   **[[블로그/01_Projects/03. Bizpack_ERP_아키텍처_설계_및_업무로직_엔지니어링|[Enterprise ERP Architecture] Bizpack 전사 ERP 모놀리식/하이브리드 시스템 아키텍처 설계 및 핵심 업무 엔진 구축]]** **🔥 (Flagship Project)**
-    *   **복잡한 수불현황(Stock In/Out Ledger) 무결성 보장:** 실생활 재고와 장부 불일치 0%를 위한 다단 트랜잭션 프로토콜 및 라이프시클 분리 설계
-    *   **재무 회계 및 대용량 데이터 엔진:** 수집된 재무 데이터의 지출결의서 자동 이벤트 연계 및 OOM 방지 대용량 NIO Excel Generator (`SimpleExcelGenerator`) 구현
-    *   **모바일 현장 단말 하이브리드 확장:** 물류 현장의 Android 탭/단말 (바코드, BLE, LocationHelper)과 Spring Boot 백엔드 간 실시간 쌍방향 파이프라인
-    *   **AI Native ERP 진화 실험:** LangChain4j 및 LLM(Gemini/OpenAI)을 사내 레가시와 융합한 '재고 이상 패턴 감지' 및 '계정과목 자동 추천' Agent 설계
+*   **[[블로그/01_Projects/03. Bizpack_ERP_아키텍처_설계_및_업무로직_엔지니어링|[Enterprise ERP Architecture] Bizpack 차세대 전사 통합 ERP 아키텍처 설계 및 핵심 업무 엔진 구축]]** **🔥 (Flagship Project)**
+    *   **6단계 E2E 비즈니스 파이프라인 구축:** CS/A/S 접수 ➔ 영업/견적 ➔ 구매/발주 ➔ 자재 수불 ➔ 태블릿 현장 결제 & 회계 정산 ➔ 경영진 동적 결재 전 과정 1인 전담 설계
+    *   **Lot Tracking & 원장 동시성 제어:** 실물 자재와 장부 불일치 0%를 위한 원장(Ledger) 기반 수불 모델 및 비관적 락(Row Lock) 트랜잭션 설계
+    *   **Edge HW & PG/VAN 결제 연동:** 영업사원 태블릿 무선 VAN 결제(APPPOS) 및 NICEPAY PG 망취소(Net Cancel) 페일세이프 구축
+    *   **AI Native ERP 융합:** LangChain4j 및 LLM(Gemini/OpenAI)을 활용한 '지출결의서 계정과목 자동 추천' 및 '수불 이상 패턴 감지' Agent 구현
 
 ---
 
