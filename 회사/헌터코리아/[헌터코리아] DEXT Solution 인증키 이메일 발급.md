@@ -1,3 +1,6 @@
+---
+aliases: []
+---
 **헌터코리아 홈페이지 인증키 이메일 발급 (30일마다 교체)**
 
 - https://www.dextsolution.com/evaluation/evaluation.aspx
