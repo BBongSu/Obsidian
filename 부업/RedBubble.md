@@ -15,6 +15,21 @@ https://www.redbubble.com/people/BBongStudio/shop?anchor=profile&asc=u
 ### ClumsyStudio
 
 - 글꼴: Fredoka
+- 아이템
+	- ClumsySushi
+	- ClumsyDumpling
+	- ClumsyBubbleTea
+	- ClumsyBattery
+	- ClumsyWifi
+	- ClumsyPlug
+	- ClumsyError
+	- ClumsyTrash
+	- ClumsyCactus (선인장)
+	- ClumsyLamp
+	- ClumsyFridge (냉장고)
+	- ClumsyBread
+	- ClumsyGhost
+	- ClumsyMoon
 
 ---
 ## Product features
