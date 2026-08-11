@@ -20,7 +20,6 @@ https://www.redbubble.com/people/BBongStudio/shop?anchor=profile&asc=u
 	- ClumsyDumpling
 	- ClumsyBubbleTea
 	- ClumsyBattery
-	- ClumsyWifi
 	- ClumsyPlug
 	- ClumsyError
 	- ClumsyTrash
