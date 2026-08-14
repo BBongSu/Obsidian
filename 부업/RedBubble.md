@@ -16,8 +16,6 @@ https://www.redbubble.com/people/BBongStudio/shop?anchor=profile&asc=u
 
 - 글꼴: Fredoka
 - 아이템
-	- ClumsySushi
-	- ClumsyDumpling
 	- ClumsyBubbleTea
 	- ClumsyBattery
 	- ClumsyPlug
